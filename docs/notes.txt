@@ -1,3 +1,0 @@
-This code loads a car price dataset and performs exploratory data analysis to understand the structure of the data.
- It identifies numerical and categorical features, visualizes correlations, and checks the distributions of continuous variables along with potential outliers.
-Several categorical variables are converted into numerical form either by mapping text values to numbers (e.g., “two” → 2) or by applying one-hot encoding using pd.get_dummies.
